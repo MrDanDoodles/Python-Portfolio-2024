@@ -1,0 +1,31 @@
+{
+    "account info": {
+        "username": [
+            "Maddie123"
+        ],
+        "password": [
+            "ArmyAnime15"
+        ],
+        "email": [
+            "danielletest2@yahoo.com"
+        ]
+    },
+    "class info": {
+        "class": [
+            "algebra",
+            "history"
+        ],
+        "grade": [
+            94.0,
+            84.0
+        ]
+    },
+    "averages info": {
+        "average": [
+            89.0
+        ],
+        "timestamp": [
+            "19:51 | 5/23/2024"
+        ]
+    }
+}

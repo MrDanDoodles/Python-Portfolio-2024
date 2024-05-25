@@ -1,0 +1,31 @@
+{
+    "account info": {
+        "username": [
+            "caleb_earl"
+        ],
+        "password": [
+            "DemonSlayer"
+        ],
+        "email": [
+            "danielletest2@yahoo.com"
+        ]
+    },
+    "class info": {
+        "class": [
+            "algebra",
+            "ap history"
+        ],
+        "grade": [
+            95.0,
+            96.0
+        ]
+    },
+    "averages info": {
+        "average": [
+            95.5
+        ],
+        "timestamp": [
+            "16:40 | 5/24/2024"
+        ]
+    }
+}

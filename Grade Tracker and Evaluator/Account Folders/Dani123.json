@@ -1,0 +1,35 @@
+{
+    "account info": {
+        "username": [
+            "Dani123"
+        ],
+        "password": [
+            "Rod0819"
+        ],
+        "email": [
+            "danielletest2@yahoo.com"
+        ]
+    },
+    "class info": {
+        "class": [
+            "algebra",
+            "history",
+            "civics",
+            "test class"
+        ],
+        "grade": [
+            89.7,
+            76.0,
+            92.0,
+            83.0
+        ]
+    },
+    "averages info": {
+        "average": [
+            85.17
+        ],
+        "timestamp": [
+            "16:15 | 5/25/2024"
+        ]
+    }
+}
