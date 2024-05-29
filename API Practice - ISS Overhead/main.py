@@ -2,8 +2,8 @@ import requests
 from datetime import datetime
 import smtplib
 
-MY_LAT = 30.325970 
-MY_LONG = -81.656761
+MY_LAT = 48.325970 
+MY_LONG = -31.656761
 
 response = requests.get(url="http://api.open-notify.org/iss-now.json")
 response.raise_for_status()
@@ -46,13 +46,13 @@ def is_dark():
 def lookup():
     if iss_nearby() == 1 and is_dark() == 1:
         message = "Subject:ISS Overhead\n\nCongrats Danielle, the ISS should be near you. You should look up in the night sky!"
-        my_email = "danielletesting0@gmail.com"
-        my_password = "fmizoiflxhhopziz"
+        my_email = "testingmail@email.com"
+        my_password = "hgjfkbnmdmzqp"
 
         with smtplib.SMTP("smtp.gmail.com", 587) as connection:
             connection.starttls()
             connection.login(user=my_email, password=my_password)
-            connection.sendmail(from_addr=my_email, to_addrs="1211danielle@gmail.com", msg=message)
+            connection.sendmail(from_addr=my_email, to_addrs="personal@email.com", msg=message)
     else:
         print("False")
 
