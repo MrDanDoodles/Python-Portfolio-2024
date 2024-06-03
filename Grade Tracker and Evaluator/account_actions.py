@@ -82,8 +82,8 @@ class AccountAction:
             json.dump(self.account_dictionary, data_file, indent=4)
 
         #Send an email stating that your account was created
-        c_email = "danielletesting0@gmail.com"
-        c_password = "fmizoiflxhhopziz"
+        c_email = "testing@gmail.com"
+        c_password = "jsjsjsjsjsjsjssjsjs"
 
         message = f"Subject:GPA Calculator Account\n\nThank you {username} for signing up for the GPA Calculator and Grade Tracker.\nYour account was created on {TimeStamp.time_stamp}. We hope to serve you well, your current grade average is {average}. Hope you can keep up the work!"
         with smtplib.SMTP("smtp.gmail.com", 587) as connection:
