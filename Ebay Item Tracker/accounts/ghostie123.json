@@ -1,0 +1,23 @@
+{
+    "Account_Info": {
+        "Username": "ghostie123",
+        "Password": "BonBon123",
+        "Email": "TESTING@gmail.com",
+        "Verification_Status": "Verified",
+        "First_Name": "James",
+        "Last_Name": "Bond",
+        "Gender": "M"
+    },
+    "Ebay": {
+        "item_1": {
+            "Name": "Lenovo ThinkBook 15 Gen 4 Notebook 15.6\" FHD Intel Core i7-1255U 8GB RAM",
+            "Price": 514.99,
+            "Link": "https://www.ebay.com/itm/296403876713?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20230913100357%26meid%3D0ff970d50c0e41a2b4bc497471a6e2eb%26pid%3D101832%26rk%3D1%26rkt%3D1%26itm%3D296403876713%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DPersonalizedTopicsV2WithDynamicSizeRanker%26brand%3DLenovo&_trksid=p4375194.c101832.m47269&_trkparms=parentrq%3Aae3a77b21900a4f899fcbe41ffff4cd2%7Cpageci%3Adf74b842-4167-11ef-8309-3e595c924c5a%7Ciid%3A1%7Cvlpname%3Avlp_homepage"
+        },
+        "item_2": {
+            "Name": "Nike Team Legend Short Sleeve Crew T-Shirt Men's Royal Blue 727982-493",
+            "Price": 10.0,
+            "Link": "https://www.ebay.com/itm/186457573691?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20230913100508%26meid%3D74a6c006fc0b46fbbc03f675f7e8790c%26pid%3D101833%26rk%3D1%26rkt%3D1%26itm%3D186457573691%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DPersonalizedTopicsV2WithDynamicSizeRanker%26brand%3DNike&_trksid=p4375194.c101833.m47269&_trkparms=parentrq%3Aae3a77b21900a4f899fcbe41ffff4cd2%7Cpageci%3Adf74b842-4167-11ef-8309-3e595c924c5a%7Ciid%3A3%7Cvlpname%3Avlp_homepage"
+        }
+    }
+}
